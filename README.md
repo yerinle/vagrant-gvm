@@ -2,8 +2,6 @@
 
 Install GVM (Groovy enVironment Manager) on a vagrant box.
 
-Currently this fails on the first run, but succeeds on the second run.
-
 Tested on:
 
  * Centos 6.4
