@@ -13,6 +13,6 @@ Follow these steps to use:
  * Add a box to your vagrant installation "vagrant box add precise32 http://files.vagrantup.com/precise32.box"
  * Clone this repo
  * Cd into vagrant-gvm
- * run "git submodules init"
- * run "git submodules update"
+ * run "git submodule init"
+ * run "git submodule update"
  * run "vagrant up"
